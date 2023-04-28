@@ -3,3 +3,7 @@ git status=>list untracked files
 
 git add -A=>adding all files to staging area
 git commit -m "message"=>moving staged files to local repository
+
+git clone=>exact copy of remote repository to localspace
+git push=>local space to remote repository
+git pull=>remote repository to local space
